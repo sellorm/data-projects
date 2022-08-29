@@ -5,7 +5,7 @@ Templates for use with [cookiecutter](https://cookiecutter.readthedocs.io/) to s
 ## Available templates
 
 | Language | Description           | template name |
-|==========|=======================|===============|
+|----------|-----------------------|---------------|
 | R        | Basic R skeleton      | R             |
 | python   | Basic Python skeleton | python        |
 | python   | Basic shiny app       | shiny-py      |
