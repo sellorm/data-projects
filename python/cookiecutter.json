@@ -1,0 +1,5 @@
+{
+    "project_slug": "my_project",
+    "virtual_env_name": ".venv",
+    "license": ["MIT", "None"]
+}

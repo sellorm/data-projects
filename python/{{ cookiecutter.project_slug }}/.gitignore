@@ -1,0 +1,1 @@
+{{ cookiecutter.virtual_env_name }}
